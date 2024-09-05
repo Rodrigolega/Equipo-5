@@ -1,4 +1,4 @@
-## evolucion a lo largo del tiempo
+# evolucion a lo largo del tiempo
 
 - Windows 1.0 (1985): Primera versión, con interfaz gráfica basada en ventanas.
 - Windows 3.0 (1990): Primera versión ampliamente exitosa, introdujo mejoras significativas en la interfaz de usuario y rendimiento.
