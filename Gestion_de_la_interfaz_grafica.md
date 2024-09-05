@@ -5,9 +5,9 @@ o	Extensiones de archivos ejecutables en el sistema operativo.
 Son las extensiones del link: https://internetpasoapaso.com/archivos-ejecutables/
 
 o	Asistente de voz integrado (si aplica).
-Configuraciones y accesibilidad para ver lo de comandos de voz. Depende de cada computadora, normalmente se requiere de un micrófono, en celulares por otra parte basta con decir “Hi,Bixby” eso con dispositivos Android.
+Configuraciones y accesibilidad para ver lo de comandos de voz. Depende de cada computadora, normalmente se requiere de un micrófono, en celulares por otra parte basta con decir “Hi, Bixby” eso con dispositivos Android.
 
-o	Comandos o atajos claves (Camila en esta parte resalta los que quieras y los demás solo ponlos de que juntos y pequeños, que se vean que están)
+o	Comandos o atajos claves:
 
 Windows: Abre o cierra el menú de inicio.
 
