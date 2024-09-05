@@ -8,3 +8,6 @@ Errores mas comunes en Windows:
 
 4. Windows 10, esta version acumulaba tantos archivos temporales y otros residuos que se ralentizaba.
 
+   ![image](https://github.com/user-attachments/assets/d8efa13f-88ba-4ee8-9a94-e5f8439345b5)
+
+
