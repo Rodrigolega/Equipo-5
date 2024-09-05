@@ -1,4 +1,4 @@
-## historia
+## Historia
 
 Windows es un conjunto de sistemas operativos desarrollado por Microsoft.
  
