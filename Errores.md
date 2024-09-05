@@ -1,4 +1,4 @@
-Errores mas comunes en Windows:
+# Errores mas comunes en Windows:
 
 1. Pantallazo azul, cuando el sistema operativo encontraba un error critico irreparable, despiega un pantallazo azul.
 
